@@ -10,6 +10,6 @@
 - 🤔 I’m looking for help with Spring security and Angular
 - 💬 Ask me about Rest apis,Microflows , Nano flows and web related stuff
 - 📫 How to reach me: Linkedin- https://www.linkedin.com/in/rohith-thorthi-95866b196
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: Vibing with cool Anime stuff
 
