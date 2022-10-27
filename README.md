@@ -11,5 +11,5 @@
 - 💬 Ask me about Rest apis,Microflows , Nano flows and web related stuff
 - 📫 How to reach me: Linkedin- https://www.linkedin.com/in/rohith-thorthi-95866b196
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Lets discuss some Anime stuff
+- ⚡ Fun fact: Vibing with cool Anime stuff
 
