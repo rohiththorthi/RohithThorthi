@@ -27,4 +27,7 @@ Good knowledge in Syntaxes, data structure and algorithms
 9)Application Containers(JBoss,Jetty are famous )(they conatin many functions from logging into database to authenticating a user)
 10)java for learning Big Data(HDFS and Hadoop is written in Java)(ETL applications such as Apache kafka and Apache Camel useful for Data Extraction and Loading are written in java)
 11)Java Testing Tools(TestNG and Selenium)
-12)Java EECOmponents
+12)Java EE(Enterprise Edition)Components(Understanding of how to compose Server Side Applications using EE components.Important Components are 1)Java Beans 2)JSP's and 3) Servlets)
+13)Java Build TOOLs(Apache,Gradle,Maven,Sonatype,Bazle,Nexus adn Cmake)
+14)Core Java Skills(OOps,design patterns,absttract classes,serialisation)
+15) Java Systems (stay updated from java 8 features  to ongoing java version features)
