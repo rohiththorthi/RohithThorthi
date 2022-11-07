@@ -1,0 +1,13 @@
+.DesignPattern:Problem Solving technique during building phase of software
+1)Structural Design pattern:Made of Variables and Functions
+2)Creational Design Pattern:Used for Creating Objects and instances within an object
+3)Behavioural Design Pattern:Used for Interaction of One Class within the other
+4)MVC Design Pattern
+5)Depedency Injection
+NOtes:All this helps in building good structured and Proffesional Interfaced Softwares
+
+--------------------Terminology------------------------------
+Object :Instance of a class
+Singleton:Class having one object at a time(Limits creation of objects to 1)
+Bridge DesignPattern:This DesignPAttern separates Abstraction from Implementation
+Facade:Appearance of a software
