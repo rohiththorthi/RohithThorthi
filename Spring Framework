@@ -1,1 +1,9 @@
+Theme:Able to create Enterprise Applications
+History:
+Before EJB, Java Beanswere used  to create Enterprise Applications such as Web Applications
+Although Java Beans were used to create UI components hence they couldnt provide services such as transaction management and security which are needed to create robust and secure eneterprise applications
+The advent of EJB brought solution to this complication
+EJB extends Java Components such as Web and Enterprise Components and provides services that helps in Enterprise Application Development
+Enterprise applicatiopn:An application tthat a business would use to assist an organization basically in a Corporate World
+
 
