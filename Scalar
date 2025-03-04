@@ -2,4 +2,23 @@ Introduction to Problem Solving(Intermediate)
 Dijkstras algorithm for Google MAP
 Suggestions in SearchEngine uses Trie algorithm
 DSA->WHen to use a datasturcture->It somes from strong observation and intuitions
+Time Complexity:
+Important Maths Formulas to know
+How many elemnts are included between the below both elemnts included
+[3 10]->8
+[a b]-> b-a+1
+[a b)->b-a (a is included b is excluded)
+(a b)-> b-a-1
+1GHZ=10^9 clock cycles per second
+Given  code how to calculate iterations
+iterations should be based on input you give
+Asymptotic analysis of Algorithms for understanding optimal solution of an algorithm
+larger inputs
+Big O
 
+i j iteration
+n/2  [n 1] logn 
+String algorithms
+Z algo and Rabin Karp
+KMP
+Standard String matching algorithm pattern occurance
